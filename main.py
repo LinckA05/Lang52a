@@ -1,0 +1,5 @@
+input_l = input('what is the length\n')
+input_l = int(input_l)
+input_w = input('what is the width\n')
+input_w = int(input_w)
+print(input_l * input_w)
